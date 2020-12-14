@@ -85,21 +85,17 @@ export const surveys = [
             "id": "36",
             "createdBy": "Roger Yu",
             "createdDateTime": "Thur, 28 May 2020 09:30:00 GMT",
-            "title": "What is the temp today?",
-            "subTitle": "We need to send this to the Bureau of Meteorology.",
+            "title": "Who won the NBA in 1998?",
+            "subTitle": "* My favorite team.",
             "questionType": 3,
             "options": [
               {
                 "id": "1",
-                "text": "10°"
+                "text": "Chicago Bulls"
               },
               {
                 "id": "2",
-                "text": "20°"
-              },
-              {
-                "id": "3",
-                "text": "30°"
+                "text": "Utah Jazz"
               }
             ]
           }
