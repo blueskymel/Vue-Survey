@@ -1,4 +1,4 @@
-# compass-survey
+# vue-survey
 
 ## Project setup
 ```
