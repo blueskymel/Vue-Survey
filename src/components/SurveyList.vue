@@ -1,6 +1,6 @@
 <template>
   <div class="survey-item-wrap">
-    <h1>Compass Surveys</h1>
+    <h1>Vue Surveys</h1>
     <SurveyListItem v-for="survey in surveys" 
     :key="survey.id"
     :survey="survey" />
